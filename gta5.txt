@@ -1,0 +1,7 @@
+storage :
+	before install 37GB
+	after  install 60GB 90GB
+ram :
+	min 4GB
+	lar 8GB
+

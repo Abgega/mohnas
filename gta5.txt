@@ -5,3 +5,4 @@ ram :
 	min 4GB
 	lar 8GB
 
+can you run it
